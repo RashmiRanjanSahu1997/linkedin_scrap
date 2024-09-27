@@ -1,0 +1,20 @@
+How to Run
+Set up the environment:
+Ensure all required libraries are installed and the directory structure is correct.
+
+Update credentials:
+Modify the email and password variables in the main function with your LinkedIn credentials.
+    ex-
+    email = 'rashmiranjansahu1997@gmail.com'
+    password = 'rashmi8249'
+
+Directory create :
+create a data folder inside the project .where download file will be store and give path of the data directory in the main function
+    ex- 
+    data_directory = '/home/ranjan/linkedin_scrap/data'
+CSV file Declare:
+    write specific CSV file to process (e.g., 'Shares.csv').
+    csv_files = 'Shares.csv'
+Run the script:
+Execute the script using Python:
+python3 link.py

@@ -1,0 +1,10 @@
+Challenge Date,IP Address,User Agent,Country,Challenge Type
+Sat Jul 23 03:27:29 UTC 2022,2405:204:8405:6ea3:88c1:4bff:fe2c:bb99,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.706 vivo_V2141:android_12,India,SMS
+Sat Jul 23 05:05:20 UTC 2022,59.144.124.86,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36",India,REHAB_RESTRICTION_CHALLENGE
+Tue Jan 03 08:03:32 UTC 2023,180.211.99.146,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",India,EMAIL_PIN_CHALLENGE
+Tue May 16 12:11:03 UTC 2023,180.211.99.146,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",India,EMAIL_PIN_CHALLENGE
+Wed Jul 12 17:56:31 UTC 2023,2409:40c1:1039:38b4:1c64:7200:670b:7a00,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",India,EMAIL_PIN_CHALLENGE
+Mon Jul 17 12:07:49 UTC 2023,2409:40c1:101b:ae98:e011:e9ff:fe57:aa1,"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36",India,CAPTCHA_CHALLENGE
+Thu Nov 30 10:56:55 UTC 2023,122.173.73.252,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",India,EMAIL_PIN_CHALLENGE
+Wed Jul 17 13:28:52 UTC 2024,49.36.89.128,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",India,EMAIL_PIN_CHALLENGE
+Wed Jul 17 13:29:18 UTC 2024,49.36.89.128,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",India,PIN_CHALLENGE
